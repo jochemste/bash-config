@@ -182,4 +182,4 @@ fi
 ##########################################
 . "$HOME/.cargo/env"
 
-export LSP_USE_PLISTS=true
+#export LSP_USE_PLISTS=true
